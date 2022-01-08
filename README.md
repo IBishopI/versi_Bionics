@@ -4,3 +4,21 @@
 # Versi|Bionics (bionic hand prosthesis)
 
 Project aimed to help people who lost hand(s)
+
+## Possibilities of the prosthesis (current):
+- Several smart modes for everyday tasks
+- Tactile response (makes it possible to feel the touch of an object)
+- Thermo reacts (the ability to distinguish cold/hot object to the touch)
+- Wrist with 2 DOF (works with multiple gyroscopes and accelerometers)
+(makes it easier to perform simple tasks - for example: to drink a glass of water "without moving your shoulder or raising your elbow too much")
+- Module fingers (easy replace if destroyed.)
+
+## Renders of construct
+> 3th DOF in further release
+![](/docs/3DOF.png)
+
+![](/docs/work_model_5.png)
+
+![](/docs/work_model_2.png)
+
+## Real photos of the prosthesis
