@@ -15,7 +15,7 @@ Project aimed to help people who lost hand(s) [Website](https://versibionics.com
 - 2 inch screen to fast settings menu
 
 ## Renders of construct
-> 3th DOF in further release
+> 3-DOF (blue arrow) in further release
 ![3DOF_Render](/docs/3DOF.png)
 
 ![Rdender1](/docs/work_model_5.png)
