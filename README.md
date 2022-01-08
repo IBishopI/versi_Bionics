@@ -3,7 +3,7 @@
 ![IBishopI_el](/docs/badge_vb_electron.svg)
 # Versi|Bionics (bionic hand prosthesis)
 
-Project aimed to help people who lost hand(s) [Our Website](https://versibionics.com/)
+Project aimed to help people who lost hand(s) [Website](https://versibionics.com/)
 
 ## Possibilities of the prosthesis (current):
 - Several smart modes for everyday tasks
