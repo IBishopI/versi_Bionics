@@ -12,13 +12,16 @@ Project aimed to help people who lost hand(s)
 - Wrist with 2 DOF (works with multiple gyroscopes and accelerometers)
 (makes it easier to perform simple tasks - for example: to drink a glass of water "without moving your shoulder or raising your elbow too much")
 - Module fingers (easy replace if destroyed.)
+- 2 inch screen to fast settings menu
 
 ## Renders of construct
 > 3th DOF in further release
-![](/docs/3DOF.png)
+![3DOF_Render](/docs/3DOF.png)
 
-![](/docs/work_model_5.png)
+![Rdender1](/docs/work_model_5.png)
 
-![](/docs/work_model_2.png)
+![Rednder2](/docs/work_model_2.png)
 
 ## Real photos of the prosthesis
+
+![Photo1](/docs/DCIM_3157.png)
