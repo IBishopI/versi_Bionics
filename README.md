@@ -24,4 +24,13 @@ Project aimed to help people who lost hand(s) [Website](https://versibionics.com
 
 ## Real photos of the prosthesis
 
-![Photo1](/docs/DCIM_3157.png)
+![Photo1](/docs/rphoto_1.jpg)
+![Photo2](/docs/rphoto_2.jpg)
+![Photo3](/docs/rphoto_3.jpg)
+![Photo4](/docs/rphoto_4.jpg)
+![Photo5](/docs/rphoto_5.jpg)
+![Photo6](/docs/rphoto_6.jpg)
+![Photo7](/docs/rphoto_7.jpg)
+![Photo8](/docs/rphoto_8.jpg)
+![Photo9](/docs/rphoto_9.jpg)
+![Photo10](/docs/rphoto_10.jpg)
